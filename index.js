@@ -21,5 +21,5 @@ function randMSG() {
         result[i] = wordList[Math.floor(Math.random() * wordList.length)];
     }
     
-    document.getElementById("a").innertext = result.join(" ") + ".";
+    document.getElementById("span").innertext = result.join(" ") + ".";
 }
