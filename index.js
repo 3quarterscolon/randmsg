@@ -16,7 +16,7 @@ var wordList = [
 ]
 
 function randMSG() {
-	let result = [];
+    let result = [];
     for (let i = 0; i < LENGTH; i++) {
         result[i] = wordList[Math.floor(Math.random() * wordList.length)];
     }
