@@ -1,7 +1,7 @@
 const LENGTH = 6;
 
 var wordList = [
-	"Banana", "Apple", "Cat", "Tree", "Acorn", "Batch", "Use", "Write", "In",
+    "Banana", "Apple", "Cat", "Tree", "Acorn", "Batch", "Use", "Write", "In",
     "Vue", "Svelte", "C", "Program", "Write", "Microsoft", "Windows", "Mac", "Computer", "Hello",
     "Git", "GitHub", "Meow!", "Who", "What", "Where", "When", "Why", "Then", "Bit", "Bit",
     "Byte", "Kite", "Bottom", "Top", "Padding", "HTML", "CSS", "SCSS", "Sometimes", "Someday",
